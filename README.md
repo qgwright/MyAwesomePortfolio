@@ -1,1 +1,2 @@
 # MyAwesomePortfolio
+This is comprehensive look at my growth and development as I progress through the world of Fullstack Development. I hope you enjoy and I am always open for constructive criticism, feedback, tricks of the trade, etc. for this will only make me  a better developer. For those looking to acquire services I am open to meet any new challenges. Thank you for visiting and i hope you have enjoyed your experience.  
