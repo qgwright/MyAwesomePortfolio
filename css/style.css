@@ -148,7 +148,11 @@ section,
 	position: relative;
 	padding-bottom: 3px;
 }
-
+.social {
+	width: 62px;
+	height: 62px;
+	margin-top:8px;margin-right: 5px;
+}
 .kc-animated-underline:after {
 	content: '';
 	display: block;
