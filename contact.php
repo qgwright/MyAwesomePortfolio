@@ -16,7 +16,7 @@
 	$body .= "Email: ".$_REQUEST['email']." \n";
 	$body .= "Message: ".$_REQUEST['message']." \n";
 
-	## SEND MESSGAE ##
+	## SEND MESSAGE ##
 
 	mail( $recipient, $subject, $body, "From: $sender" ) or die ("Mail could not be sent.");
 
